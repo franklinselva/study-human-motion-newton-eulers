@@ -1,7 +1,7 @@
 # study-human-motion-newton-eulers
 
-#Introduction
+# Introduction
 
-#Installation
+# Installation
 
-#Usage
+# Usage
